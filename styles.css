@@ -13,6 +13,12 @@ h1 {
     font-family: cursive;
 }
 
+h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: cursive;
+}
+
 body {
     background-color: lightblue;
 }
@@ -36,4 +42,8 @@ article {
 
 .center-text {
     text-align: center;
+}
+
+medial {
+    font-family: Georgia;
 }
